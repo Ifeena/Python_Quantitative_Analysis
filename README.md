@@ -20,3 +20,6 @@
 ### STEP 2 - Importing the Dataset for the Quantitative Analysis of the Stock Market.
 - stocks_data = pd.read_csv('stock.csv)
 - print(stocks_data)
+
+### STEP 3 - Using Statistical Concepts to perform the Quantitative Analysis of the Stock Market.
+#### - 1. Descriptive Statistics:
