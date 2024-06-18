@@ -3,4 +3,7 @@
 ## Statistical Concepts to perform the Quantitative Analysis of the Stock Market include the following:
 - Descriptive Statistics.
 - Time Series Analysis.
-- 
+- Volatility Analysis.
+- Correlation Analysis.
+- Comparative Analysis.
+- Risk vs Return Analysis.
