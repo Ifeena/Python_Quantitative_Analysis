@@ -22,4 +22,4 @@
 - print(stocks_data)
 
 ### STEP 3 - Using Statistical Concepts to perform the Quantitative Analysis of the Stock Market.
-#### - 1. Descriptive Statistics:
+####  1. Descriptive Statistics:
