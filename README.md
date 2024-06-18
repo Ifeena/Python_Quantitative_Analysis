@@ -8,8 +8,8 @@
 - Comparative Analysis.
 - Risk vs Return Analysis.
 
-# Importing the necessary Python Libraries for the Quantitative Analysis of the Stock Market.
-### import pandas and plotly
+### Importing the necessary Python Libraries for the Quantitative Analysis of the Stock Market.
+#### import pandas and plotly
 - import pandas as pd                        (for data manipulation and analysis)
 - import plotly.express as px                (to create interactive and animated visualizations)
 - import plotly.graph_objects as go          (for detailed, low-level control over Plotly visualizations)
@@ -17,6 +17,6 @@
 - import plotly.io as pio                    (for input/output operations, configuration, and rendering in Plotly
 - pio.templates.default = "plotly_white"     (Sets the default template for Plotly visualizations to "plotly_white")
 
-## Importing the Dataset for the Quantitative Analysis of the Stock Market.
+### Importing the Dataset for the Quantitative Analysis of the Stock Market.
 - stocks_data = pd.read_csv('stock.csv)
 - print(stocks_data)
