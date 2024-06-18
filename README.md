@@ -17,3 +17,6 @@
 - import plotly.io as pio                    (for input/output operations, configuration, and rendering in Plotly
 - pio.templates.default = "plotly_white"     (Sets the default template for Plotly visualizations to "plotly_white")
 
+## Importing the Dataset for the Quantitative Analysis of the Stock Market.
+- stocks_data = pd.read_csv('stock.csv)
+- print(stocks_data)
