@@ -10,10 +10,10 @@
 
 # Importing the necessary Python Libraries for the Quantitative Analysis of the Stock Market.
 ### import pandas and plotly
-- import pandas as pd                        #  for Data manipulation and analysis.
-- import plotly.express as px
-- import plotly.graph_objects as go
-- from plotly.subplots import make_subplots
-- import plotly.io as pio
-- pio.templates.default = "plotly_white"
+- import pandas as pd                        (for data manipulation and analysis)
+- import plotly.express as px                (to create interactive and animated visualizations)
+- import plotly.graph_objects as go          (for detailed, low-level control over Plotly visualizations)
+- from plotly.subplots import make_subplots  (to create complex subplot layouts in Plotly)
+- import plotly.io as pio                    (for input/output operations, configuration, and rendering in Plotly
+- pio.templates.default = "plotly_white"     (Sets the default template for Plotly visualizations to "plotly_white")
 
