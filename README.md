@@ -10,7 +10,7 @@
 
 # Importing the necessary Python Libraries for the Quantitative Analysis of the Stock Market.
 ### import pandas and plotly
-- import pandas as pd
+- import pandas as pd                        #  for Data manipulation and analysis.
 - import plotly.express as px
 - import plotly.graph_objects as go
 - from plotly.subplots import make_subplots
